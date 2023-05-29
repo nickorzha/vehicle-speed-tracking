@@ -24,17 +24,3 @@ Compile the speed_detect.py program in a usual OpenCV compilation way.
 
 Run the code : example : ./speed_detect.py 
 
-
-# _Future Contributors :_
-
-Contributions are always welcome in the form of pull requests with explanatory comments
-
-You are allowed to add any cascade file to the repository
-
-For any queries or suggestions write to kmr0877@gmail.com / mohan.kagita@student.unsw.edu.au
-
-Your contribution is highly appreciated.
-
-
-
- 
